@@ -1,4 +1,4 @@
-# Ex.07 Software Product Company Website
+## Ex.07 Software Product Company Website
 ## Date:05-05-2024
 
 ## AIM:
@@ -731,10 +731,12 @@ border:2px solid white;
 </html>
 ```
 ## OUTPUT:
-![alt text](<Screenshot (12).png>)
-![alt text](<Screenshot (12).png>)
-![alt text](<Screenshot (12).png>)
-![alt text](image.png)
-![alt text](<Screenshot (10).png>)
+![Screenshot (12)](https://github.com/Suji-90/softweb/assets/150884148/a9be28fe-4c04-42f9-a660-32595e54ac25)
+![Screenshot (13)](https://github.com/Suji-90/softweb/assets/150884148/b583e5f2-6eb5-4084-9d9b-d31157134205)
+![Screenshot (15)](https://github.com/Suji-90/softweb/assets/150884148/19e390f5-6dbe-410c-96fc-26e180a9fc43)
+![Screenshot (14)](https://github.com/Suji-90/softweb/assets/150884148/4de63e7f-8e6a-4f9c-bbe1-974d404a6d13)
+
+![Screenshot (10)](https://github.com/Suji-90/softweb/assets/150884148/c359def8-2278-4796-946e-24a6867f4eda)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
